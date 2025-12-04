@@ -1,0 +1,5 @@
+{
+  "name": "Fidelity PlanView Clone",
+  "description": "A comprehensive financial planning dashboard inspired by Fidelity PlanView. Features portfolio tracking, retirement goal simulation, and AI-powered financial advisory using Gemini.",
+  "requestFramePermissions": []
+}
